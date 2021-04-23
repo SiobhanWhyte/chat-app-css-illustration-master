@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+    background-position: top left;
+}
+
