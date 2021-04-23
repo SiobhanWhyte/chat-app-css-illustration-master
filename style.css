@@ -3,7 +3,40 @@
 }
 
 body {
-    background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
-    background-position: top left;
+    
 }
 
+.background-purple {
+    background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+    width: 20rem;
+    height: 30rem;
+    position: absolute;
+}
+
+.phone {
+    background: red;
+    width: 30rem;
+    height: 50rem;
+    position: relative;
+    border-radius: 2rem;
+    margin: 5rem 10rem;
+}
+
+.image {
+    display: inline-block;
+}
+.profile {
+max-width: 3rem;
+height: 3rem;
+border-radius: 50%;
+}
+
+.title {
+    display: inline-block;
+}
+
+.dog {
+    max-width: 6rem;
+height: 6rem;
+border-radius: 10%;
+}
