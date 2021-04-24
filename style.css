@@ -10,6 +10,7 @@ body {
 
 header {
     background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+    height: 5rem;
 }
 
 .background-purple {
@@ -28,6 +29,11 @@ header {
     border-radius: 2rem;
     
 }
+
+.phone-body {
+    border-radius: 2rem;
+}
+
 
 .image {
     display: inline-block;
