@@ -1,9 +1,15 @@
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding:0;
 }
 
 body {
-    
+    background-color: grey;
+}
+
+header {
+    background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
 }
 
 .background-purple {
@@ -18,8 +24,9 @@ body {
     width: 30rem;
     height: 50rem;
     position: relative;
+    border: white solid 1rem;
     border-radius: 2rem;
-    margin: 5rem 10rem;
+    
 }
 
 .image {
