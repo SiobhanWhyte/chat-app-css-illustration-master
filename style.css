@@ -92,6 +92,12 @@ border-radius: 1rem;
 .dog-pictures {
     text-align: right;
 }
+
+.right-message {
+    justify-content: right;
+    align-items: right;
+    display: inline-block;
+}
 .dog {
     max-width: 6rem;
 height: 6rem;
