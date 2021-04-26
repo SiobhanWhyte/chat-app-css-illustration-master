@@ -126,10 +126,12 @@ margin: 1rem 0;
 }
 
 .cta {
-    background: hsl(206, 6%, 79%);
-    width: 9rem;
+    background:white;
+    width: 25rem;
+    height: 3rem;
     border: black solid 1px;
     border-radius: 1rem;
+    color: hsl(206, 6%, 79%);
 }
 
 .dog-pictures {
