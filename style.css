@@ -16,7 +16,15 @@ header {
 }
 
 h1 {
-    font-weight: 700;
+    font-weight: 500;
+    margin: 3rem 0;
+    color: hsl(271, 36%, 24%);
+    text-align: center;
+    padding-left: 5rem;
+}
+
+p {
+    
 }
 
 .background-purple {
@@ -38,6 +46,7 @@ h1 {
     background-color: hsl(270, 20%, 96%);
     width: 28rem;
     height: 48rem;
+    font-weight: 400;
 }
 
 .grid-one {
@@ -46,12 +55,17 @@ display: inline-block;
 
 .grid-two {
     display: inline-flex;
-    height: 250px;
-    margin: 5rem 5rem;
 }
 
-.text {
-    
+.paragraph {
+    max-width: 375px;
+    text-align: center;
+    padding-left: 5rem;
+    font-weight: 400;
+    color:hsl(270, 7%, 64%);
+    text-align: center;
+    line-height: 1.5rem;
+    margin-bottom: 5rem;
 }
 
 .image {
@@ -70,9 +84,18 @@ border-radius: 50%;
 
 .white-message {
 background: white;
-width: 8rem;
 border: black solid 1px;
 border-radius: 1rem;
+margin: 1rem 0;
+}
+
+.one {
+    width: 15rem;
+    height: 3rem;
+}
+.two {
+    width: 10rem;
+    height: 3rem;
 }
 
 .purple-message {
@@ -85,6 +108,7 @@ border-radius: 1rem;
 
 .grey-message {
     background: hsl(206, 6%, 79%);
+    color: hsl(271, 15%, 43%);
     width: 9rem;
     border: black solid 1px;
     border-radius: 1rem;
@@ -102,9 +126,7 @@ border-radius: 1rem;
 }
 
 .right-message {
-    justify-content: right;
-    align-items: right;
-    display: inline-block;
+    padding-left: 19rem;
 }
 .dog {
     max-width: 6rem;
