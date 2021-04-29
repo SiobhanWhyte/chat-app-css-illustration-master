@@ -33,7 +33,7 @@ p {
     width: 20rem;
     height: 30rem;
     position: absolute;
-    border-radius:  0 0 0 90px;
+    border-radius:  0 0 50px 50px;
 }
 
 .phone {
@@ -42,7 +42,7 @@ p {
     position: relative;
     border: white solid 1rem;
     border-radius: 2rem;
-    margin-left: 10rem;
+    margin-left: 25rem;
     margin-top: 10rem;
 }
 
