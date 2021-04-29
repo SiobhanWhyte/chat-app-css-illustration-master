@@ -30,15 +30,15 @@ p {
 
 .background-purple {
     background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
-    width: 20rem;
-    height: 30rem;
+    width: 30rem;
+    height: 50rem;
     position: absolute;
-    border-radius:  0 0 50px 50px;
+    border-radius:  0 60px;
 }
 
 .phone {
-    width: 30rem;
-    height: 50rem;
+    width: 25rem;
+    height: 45rem;
     position: relative;
     border: white solid 1rem;
     border-radius: 2rem;
@@ -48,8 +48,8 @@ p {
 
 .phone-body {
     background-color: hsl(270, 20%, 96%);
-    width: 28rem;
-    height: 48rem;
+    width: 23rem;
+    height: 43rem;
     font-weight: 400;
 }
 
