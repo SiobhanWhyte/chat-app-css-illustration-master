@@ -25,10 +25,10 @@ h1 {
 
 .background-purple {
     background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
-    width: 30rem;
+    width: 15rem;
     height: 50rem;
     position: absolute;
-    border-radius:  0 60px;
+    border-radius:  0 0 60px;
 }
 
 .phone {
@@ -38,7 +38,7 @@ h1 {
     border: white solid 1rem;
     border-radius: 2rem;
     margin-left: 5rem;
-    margin-top: 10rem;
+    margin-top: 8rem;
 }
 
 .phone-body {
